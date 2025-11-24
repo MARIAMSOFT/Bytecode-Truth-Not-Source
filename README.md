@@ -2,7 +2,7 @@
 
 ### A Deep Dive Into Verification Myths in Smart Contract Security
 
----
+--- 
 
 ## Abstract
 
