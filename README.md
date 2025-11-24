@@ -3,7 +3,7 @@
 ### A Deep Dive Into Verification Myths in Smart Contract Security
 
 --- 
- 
+  
 ## Abstract
 
 Most Web3 users and even many developers, are conditioned to trust the green checkmark on Etherscan:
